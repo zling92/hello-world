@@ -6,4 +6,5 @@
 	language:PHP
 */
 	echo "Hello World!";
+	echo "yes";
 ?>
